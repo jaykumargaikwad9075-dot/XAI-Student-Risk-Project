@@ -1,0 +1,201 @@
+Student ID,Student Name,Student Email,Student Phone Number,Student Gender,Mathematics Marks,Programming Marks,Database Marks,Statistics Marks,AI Marks,Student Behaviour,Assignment Record,Other Activities,Attendance (%),Study Hours (per day),Academic Risk
+STU001,Anushka Singh,anushka.singh1@studentmail.com,7607654919,Female,46,49,46,50,47,Poor,Incomplete,Not Present,76,1,High Risk
+STU002,Mayur Shinde,mayur.shinde2@studentmail.com,9883270233,Male,45,55,43,52,27,Poor,Incomplete,Not Present,65,3,High Risk
+STU003,Tushar Salunkhe,tushar.salunkhe3@studentmail.com,8008647315,Male,20,20,20,20,23,Poor,Incomplete,Present,50,1,High Risk
+STU004,Harshada Jadhav,harshada.jadhav4@studentmail.com,8962534401,Female,45,57,40,52,50,Average,Complete,Present,66,1,High Risk
+STU005,Shubham Kulkarni,shubham.kulkarni5@studentmail.com,8908212968,Male,47,58,53,48,63,Poor,Complete,Present,85,4,Medium Risk
+STU006,Dipali Gupta,dipali.gupta6@studentmail.com,8735215696,Female,51,63,55,53,56,Poor,Incomplete,Present,86,4,Medium Risk
+STU007,Shreya Chavan,shreya.chavan7@studentmail.com,8163160197,Female,65,38,60,59,61,Good,Complete,Present,82,2,Medium Risk
+STU008,Ajinkya Kadam,ajinkya.kadam8@studentmail.com,7241009588,Male,61,56,46,44,42,Good,Incomplete,Present,78,4,Medium Risk
+STU009,Swara Kulkarni,swara.kulkarni9@studentmail.com,7145344690,Female,52,52,50,45,44,Poor,Complete,Present,82,3,Medium Risk
+STU010,Prathamesh Deshmukh,prathamesh.deshmukh10@studentmail.com,9648387643,Male,69,77,60,65,64,Average,Complete,Present,92,4,Low Risk
+STU011,Darshan Gupta,darshan.gupta11@studentmail.com,7039162850,Male,58,53,33,44,52,Average,Incomplete,Present,84,4,High Risk
+STU012,Vaibhav Bhide,vaibhav.bhide12@studentmail.com,7220419259,Male,20,20,25,26,25,Poor,Incomplete,Not Present,51,1,High Risk
+STU013,Sahil Kulkarni,sahil.kulkarni13@studentmail.com,7820692073,Male,52,60,60,64,75,Excellent,Complete,Not Present,80,6,Medium Risk
+STU014,Manasi Chavan,manasi.chavan14@studentmail.com,8599911922,Female,40,43,39,43,38,Poor,Incomplete,Not Present,74,4,High Risk
+STU015,Kedar Dhumal,kedar.dhumal15@studentmail.com,8500960157,Male,56,72,64,75,73,Good,Complete,Present,85,5,Low Risk
+STU016,Janhavi Jadhav,janhavi.jadhav16@studentmail.com,7556587953,Female,72,69,78,74,76,Excellent,Complete,Present,80,6,Low Risk
+STU017,Aditi Kale,aditi.kale17@studentmail.com,9138886312,Female,52,55,62,58,63,Good,Incomplete,Present,80,4,Medium Risk
+STU018,Ritika Gore,ritika.gore18@studentmail.com,8681069046,Female,60,75,69,71,67,Excellent,Complete,Present,90,6,Low Risk
+STU019,Aarohi Gore,aarohi.gore19@studentmail.com,7008871926,Female,70,74,81,76,63,Excellent,Complete,Present,90,5,Low Risk
+STU020,Ajinkya Naik,ajinkya.naik20@studentmail.com,8122867751,Male,44,39,36,33,36,Poor,Incomplete,Present,70,2,High Risk
+STU021,Manasi Salunkhe,manasi.salunkhe21@studentmail.com,8509047131,Female,52,53,62,57,64,Average,Incomplete,Present,80,4,Medium Risk
+STU022,Chaitali More,chaitali.more22@studentmail.com,7297837926,Female,48,66,58,51,54,Average,Complete,Not Present,70,4,Medium Risk
+STU023,Janhavi Wagh,janhavi.wagh23@studentmail.com,9412107383,Female,42,49,34,23,46,Poor,Incomplete,Not Present,70,2,High Risk
+STU024,Prachi Naik,prachi.naik24@studentmail.com,8347779637,Female,95,70,77,70,81,Excellent,Complete,Present,94,6,Low Risk
+STU025,Onkar Jadhav,onkar.jadhav25@studentmail.com,9181215871,Male,50,46,47,43,25,Poor,Incomplete,Present,67,2,High Risk
+STU026,Onkar Kale,onkar.kale26@studentmail.com,9356964401,Male,31,38,53,41,35,Poor,Incomplete,Present,60,1,High Risk
+STU027,Akash Bhide,akash.bhide27@studentmail.com,8644553238,Male,57,69,54,45,52,Average,Complete,Present,88,5,Low Risk
+STU028,Vidya Joshi,vidya.joshi28@studentmail.com,8975990341,Female,84,69,77,63,61,Good,Complete,Not Present,79,6,Low Risk
+STU029,Bhakti Joshi,bhakti.joshi29@studentmail.com,9492649114,Female,47,44,51,49,43,Poor,Incomplete,Not Present,58,2,High Risk
+STU030,Vikram Nimbalkar,vikram.nimbalkar30@studentmail.com,7487113792,Male,55,44,31,38,43,Poor,Incomplete,Present,75,4,High Risk
+STU031,Mayur Dhumal,mayur.dhumal31@studentmail.com,8278603799,Male,67,63,52,61,53,Good,Incomplete,Present,77,4,Medium Risk
+STU032,Utkarsh More,utkarsh.more32@studentmail.com,7400594420,Male,44,34,40,21,31,Poor,Incomplete,Present,70,1,High Risk
+STU033,Snehal Bhosale,snehal.bhosale33@studentmail.com,8897350066,Female,51,55,34,47,30,Poor,Incomplete,Not Present,68,2,High Risk
+STU034,Yash Deshmukh,yash.deshmukh34@studentmail.com,8199203237,Male,45,37,46,39,57,Poor,Incomplete,Present,68,4,High Risk
+STU035,Shruti Kumar,shruti.kumar35@studentmail.com,7998340141,Female,47,39,58,38,58,Poor,Incomplete,Present,75,4,High Risk
+STU036,Gayatri Gaikwad,gayatri.gaikwad36@studentmail.com,9575771159,Female,50,61,50,59,57,Poor,Incomplete,Not Present,75,4,High Risk
+STU037,Siddharth Dhumal,siddharth.dhumal37@studentmail.com,9205363219,Male,76,72,85,78,75,Excellent,Complete,Present,93,5,Low Risk
+STU038,Sonali Naik,sonali.naik38@studentmail.com,8961351178,Female,67,74,73,70,58,Good,Complete,Present,90,5,Low Risk
+STU039,Akash Kadam,akash.kadam39@studentmail.com,8172416727,Male,45,60,53,55,70,Good,Complete,Present,70,2,Medium Risk
+STU040,Sayali Sawant,sayali.sawant40@studentmail.com,7133902720,Female,49,41,50,52,44,Good,Complete,Not Present,77,4,Medium Risk
+STU041,Nikhil Kale,nikhil.kale41@studentmail.com,8730168735,Male,63,59,65,61,74,Excellent,Complete,Present,85,4,Low Risk
+STU042,Apeksha Phadtare,apeksha.phadtare42@studentmail.com,8374352710,Female,59,59,61,61,60,Good,Complete,Not Present,70,3,Medium Risk
+STU043,Payal Patil,payal.patil43@studentmail.com,7278589538,Female,62,62,53,63,57,Good,Complete,Not Present,90,4,Low Risk
+STU044,Rahul Singh,rahul.singh44@studentmail.com,8029820005,Male,75,72,69,65,64,Excellent,Complete,Present,93,3,Low Risk
+STU045,Prachi Lokhande,prachi.lokhande45@studentmail.com,8826944268,Female,40,37,29,39,38,Poor,Incomplete,Not Present,76,1,High Risk
+STU046,Swapnil Patil,swapnil.patil46@studentmail.com,9255408243,Male,24,26,24,20,22,Poor,Incomplete,Not Present,53,1,High Risk
+STU047,Mrunal Sawant,mrunal.sawant47@studentmail.com,8702393024,Female,44,60,51,52,43,Poor,Incomplete,Not Present,69,2,High Risk
+STU048,Tushar Gore,tushar.gore48@studentmail.com,7348172521,Male,49,63,41,57,57,Poor,Incomplete,Present,95,4,High Risk
+STU049,Bhakti Deshpande,bhakti.deshpande49@studentmail.com,8258478027,Female,58,51,48,57,50,Poor,Complete,Present,72,5,High Risk
+STU050,Mayur Phadtare,mayur.phadtare50@studentmail.com,8271639964,Male,47,44,43,49,51,Poor,Incomplete,Present,66,1,High Risk
+STU051,Omkar Deshpande,omkar.deshpande51@studentmail.com,8227304898,Male,36,50,66,48,49,Average,Complete,Not Present,77,2,High Risk
+STU052,Swara Kumar,swara.kumar52@studentmail.com,8448336611,Female,66,50,50,60,61,Average,Complete,Present,78,4,Medium Risk
+STU053,Sayali Patil,sayali.patil53@studentmail.com,8658645982,Female,56,67,61,60,61,Good,Complete,Present,84,6,Low Risk
+STU054,Harsh Bhide,harsh.bhide54@studentmail.com,7926393641,Male,63,73,63,82,66,Excellent,Complete,Present,80,4,Low Risk
+STU055,Sonali Dhumal,sonali.dhumal55@studentmail.com,9554348135,Female,35,31,25,20,26,Poor,Incomplete,Not Present,50,1,High Risk
+STU056,Swara Sharma,swara.sharma56@studentmail.com,8636549856,Female,42,33,40,47,34,Poor,Incomplete,Present,58,1,High Risk
+STU057,Swara Suryawanshi,swara.suryawanshi57@studentmail.com,7279687194,Female,66,77,73,65,87,Excellent,Complete,Present,93,4,Low Risk
+STU058,Akash Sawant,akash.sawant58@studentmail.com,7333132487,Male,58,67,63,58,51,Excellent,Complete,Present,81,5,Low Risk
+STU059,Chaitali Bhide,chaitali.bhide59@studentmail.com,8121943110,Female,54,71,66,64,58,Poor,Complete,Present,90,4,Medium Risk
+STU060,Sumit Bhosale,sumit.bhosale60@studentmail.com,7612007725,Male,55,49,54,53,47,Average,Incomplete,Not Present,72,3,High Risk
+STU061,Sumit Thorat,sumit.thorat61@studentmail.com,9351521348,Male,54,50,32,47,38,Poor,Incomplete,Not Present,73,3,High Risk
+STU062,Harsh Kulkarni,harsh.kulkarni62@studentmail.com,7531573427,Male,53,53,58,57,46,Good,Complete,Present,72,4,Medium Risk
+STU063,Sahil Kadam,sahil.kadam63@studentmail.com,9401643281,Male,52,40,41,51,31,Poor,Incomplete,Not Present,58,2,High Risk
+STU064,Dipali Naik,dipali.naik64@studentmail.com,8906680619,Female,41,42,38,52,34,Poor,Complete,Present,55,3,High Risk
+STU065,Madhuri Naik,madhuri.naik65@studentmail.com,7752347838,Female,39,40,46,42,36,Poor,Complete,Not Present,61,2,High Risk
+STU066,Aarohi Pawar,aarohi.pawar66@studentmail.com,7529383735,Female,60,54,58,59,55,Average,Incomplete,Present,88,4,Medium Risk
+STU067,Gayatri Salunkhe,gayatri.salunkhe67@studentmail.com,8666593442,Female,49,65,66,60,50,Good,Complete,Present,74,4,Medium Risk
+STU068,Gayatri Mane,gayatri.mane68@studentmail.com,8399058810,Female,71,78,65,84,66,Excellent,Complete,Present,85,6,Low Risk
+STU069,Tushar Dhumal,tushar.dhumal69@studentmail.com,8328396478,Male,59,52,61,56,64,Good,Complete,Present,87,3,Low Risk
+STU070,Shubham Verma,shubham.verma70@studentmail.com,7936804415,Male,59,54,58,62,64,Poor,Complete,Present,76,2,Medium Risk
+STU071,Darshan Chavan,darshan.chavan71@studentmail.com,9968561775,Male,88,78,73,66,62,Excellent,Complete,Present,94,5,Low Risk
+STU072,Prathamesh Yadav,prathamesh.yadav72@studentmail.com,7429434381,Male,46,48,53,25,49,Poor,Incomplete,Present,55,2,High Risk
+STU073,Rohan Deshmukh,rohan.deshmukh73@studentmail.com,7092473012,Male,44,40,38,57,37,Poor,Complete,Present,61,2,High Risk
+STU074,Sayali Nimbalkar,sayali.nimbalkar74@studentmail.com,8845610677,Female,37,55,42,54,39,Poor,Complete,Present,74,3,High Risk
+STU075,Sagar Kamble,sagar.kamble75@studentmail.com,9878483532,Male,51,51,43,58,57,Poor,Complete,Present,65,3,High Risk
+STU076,Prathamesh Sawant,prathamesh.sawant76@studentmail.com,7913918229,Male,72,64,75,71,83,Excellent,Complete,Present,95,5,Low Risk
+STU077,Nikhil Suryawanshi,nikhil.suryawanshi77@studentmail.com,7771898942,Male,65,43,57,37,31,Average,Incomplete,Not Present,73,2,High Risk
+STU078,Prachi Pawar,prachi.pawar78@studentmail.com,7823813819,Female,66,59,57,67,74,Good,Complete,Present,84,6,Low Risk
+STU079,Shruti Chavan,shruti.chavan79@studentmail.com,9272542846,Female,48,56,49,48,44,Poor,Incomplete,Not Present,70,2,High Risk
+STU080,Sahil Joshi,sahil.joshi80@studentmail.com,8266879999,Male,68,63,41,64,55,Average,Complete,Present,84,4,Medium Risk
+STU081,Yashashri Sharma,yashashri.sharma81@studentmail.com,9632579894,Female,66,62,57,61,58,Good,Complete,Not Present,81,3,Medium Risk
+STU082,Aarohi Patil,aarohi.patil82@studentmail.com,9948314978,Female,50,43,63,68,67,Good,Complete,Present,86,3,Low Risk
+STU083,Harsh Gaikwad,harsh.gaikwad83@studentmail.com,9326926563,Male,67,52,58,64,70,Good,Complete,Present,87,4,Low Risk
+STU084,Vidya Kale,vidya.kale84@studentmail.com,8898055708,Female,50,44,37,47,47,Average,Incomplete,Present,79,3,High Risk
+STU085,Shubham Sharma,shubham.sharma85@studentmail.com,7614223003,Male,69,58,68,78,75,Excellent,Complete,Present,86,4,Low Risk
+STU086,Rohan Lokhande,rohan.lokhande86@studentmail.com,7598284171,Male,68,72,72,60,79,Good,Complete,Not Present,85,3,Low Risk
+STU087,Pranav Lokhande,pranav.lokhande87@studentmail.com,7745883640,Male,46,44,55,47,44,Poor,Incomplete,Not Present,63,2,High Risk
+STU088,Mayur Singh,mayur.singh88@studentmail.com,7552546238,Male,50,58,70,55,51,Good,Complete,Present,84,4,Low Risk
+STU089,Tejas Kumar,tejas.kumar89@studentmail.com,9943454983,Male,36,40,45,35,43,Poor,Incomplete,Present,62,2,High Risk
+STU090,Janhavi Mane,janhavi.mane90@studentmail.com,9877268802,Female,54,48,57,64,58,Average,Complete,Present,80,5,Medium Risk
+STU091,Rahul Yadav,rahul.yadav91@studentmail.com,9918145608,Male,35,32,46,46,37,Poor,Incomplete,Not Present,63,1,High Risk
+STU092,Vedant Patil,vedant.patil92@studentmail.com,8018401174,Male,66,49,54,65,60,Good,Complete,Present,81,4,Low Risk
+STU093,Onkar Bhide,onkar.bhide93@studentmail.com,8261058275,Male,95,89,82,95,95,Excellent,Complete,Present,98,6,Low Risk
+STU094,Nilesh Kulkarni,nilesh.kulkarni94@studentmail.com,8665634625,Male,73,74,80,73,68,Excellent,Complete,Present,84,4,Low Risk
+STU095,Rohan Kale,rohan.kale95@studentmail.com,7870390162,Male,59,60,68,71,55,Average,Complete,Present,78,5,Medium Risk
+STU096,Apeksha Salunkhe,apeksha.salunkhe96@studentmail.com,9826981139,Female,52,40,48,36,23,Poor,Incomplete,Not Present,64,2,High Risk
+STU097,Abhishek Deshmukh,abhishek.deshmukh97@studentmail.com,7527360645,Male,59,51,59,56,63,Excellent,Complete,Not Present,76,4,Medium Risk
+STU098,Rohan Thorat,rohan.thorat98@studentmail.com,7956915735,Male,70,69,62,70,76,Good,Complete,Present,90,6,Low Risk
+STU099,Ankita Deshpande,ankita.deshpande99@studentmail.com,8947204343,Female,47,35,45,45,43,Average,Incomplete,Present,72,2,High Risk
+STU100,Kedar Suryawanshi,kedar.suryawanshi100@studentmail.com,7011574350,Male,53,47,61,50,58,Good,Incomplete,Present,73,3,High Risk
+STU101,Shruti Patil,shruti.patil101@studentmail.com,8310708200,Female,40,28,40,24,30,Poor,Incomplete,Not Present,65,2,High Risk
+STU102,Apeksha Thorat,apeksha.thorat102@studentmail.com,9273369772,Female,48,39,35,47,43,Poor,Incomplete,Not Present,72,2,High Risk
+STU103,Anushka Patil,anushka.patil103@studentmail.com,8653640381,Female,30,33,26,27,26,Poor,Incomplete,Not Present,58,1,High Risk
+STU104,Tushar Bhosale,tushar.bhosale104@studentmail.com,8316719549,Male,76,75,75,78,75,Excellent,Complete,Present,98,6,Low Risk
+STU105,Siddharth Bhide,siddharth.bhide105@studentmail.com,7556079455,Male,60,60,65,62,64,Average,Complete,Present,74,4,Medium Risk
+STU106,Sonali Jadhav,sonali.jadhav106@studentmail.com,8542424044,Female,55,71,60,60,58,Average,Complete,Present,92,5,Low Risk
+STU107,Ritika Dhumal,ritika.dhumal107@studentmail.com,9094491276,Female,49,60,45,51,45,Good,Complete,Present,75,3,Medium Risk
+STU108,Nilesh Sawant,nilesh.sawant108@studentmail.com,7459129835,Male,32,40,43,36,28,Poor,Incomplete,Not Present,68,1,High Risk
+STU109,Payal Shinde,payal.shinde109@studentmail.com,9272371700,Female,46,64,59,58,63,Poor,Incomplete,Present,75,5,High Risk
+STU110,Nilesh Bhide,nilesh.bhide110@studentmail.com,9011430316,Male,47,58,41,54,39,Average,Incomplete,Present,77,3,High Risk
+STU111,Sagar Kadam,sagar.kadam111@studentmail.com,9177990894,Male,41,44,37,34,45,Poor,Incomplete,Present,61,3,High Risk
+STU112,Rahul Wagh,rahul.wagh112@studentmail.com,7576397726,Male,44,44,62,54,45,Average,Complete,Present,81,3,Medium Risk
+STU113,Swara Joshi,swara.joshi113@studentmail.com,7593911558,Female,49,62,46,46,39,Average,Complete,Present,78,3,Medium Risk
+STU114,Swapnil Gaikwad,swapnil.gaikwad114@studentmail.com,7726724922,Male,50,44,49,61,47,Good,Complete,Present,79,4,Medium Risk
+STU115,Harsh Verma,harsh.verma115@studentmail.com,8636285062,Male,24,57,47,31,45,Poor,Incomplete,Not Present,66,2,High Risk
+STU116,Nikita Bhosale,nikita.bhosale116@studentmail.com,8656127137,Female,43,53,43,42,48,Poor,Complete,Present,69,1,High Risk
+STU117,Aarohi Bhide,aarohi.bhide117@studentmail.com,9811075011,Female,55,50,60,50,58,Average,Incomplete,Not Present,71,3,High Risk
+STU118,Sumit Shinde,sumit.shinde118@studentmail.com,7845274651,Male,72,60,56,64,70,Good,Complete,Present,84,5,Low Risk
+STU119,Sahil Pawar,sahil.pawar119@studentmail.com,8303836102,Male,30,29,34,39,20,Poor,Incomplete,Present,60,3,High Risk
+STU120,Aditya Shinde,aditya.shinde120@studentmail.com,9537676624,Male,35,45,47,49,48,Poor,Incomplete,Not Present,66,3,High Risk
+STU121,Ritika Lokhande,ritika.lokhande121@studentmail.com,8576025252,Female,56,60,54,44,40,Poor,Complete,Present,71,2,High Risk
+STU122,Shruti Verma,shruti.verma122@studentmail.com,8365561610,Female,42,43,55,54,46,Average,Incomplete,Not Present,67,3,High Risk
+STU123,Sonali Pawar,sonali.pawar123@studentmail.com,7814123192,Female,50,52,38,48,58,Average,Incomplete,Not Present,69,3,High Risk
+STU124,Madhuri Kale,madhuri.kale124@studentmail.com,8310649818,Female,72,62,86,71,83,Excellent,Complete,Present,98,4,Low Risk
+STU125,Shubham Deshmukh,shubham.deshmukh125@studentmail.com,7842450064,Male,51,66,61,48,50,Average,Complete,Present,96,4,Low Risk
+STU126,Abhishek Yadav,abhishek.yadav126@studentmail.com,7354772703,Male,43,41,45,46,38,Poor,Incomplete,Present,62,2,High Risk
+STU127,Ajinkya Nimbalkar,ajinkya.nimbalkar127@studentmail.com,9374845725,Male,38,32,27,35,36,Poor,Incomplete,Present,54,1,High Risk
+STU128,Nikhil Nimbalkar,nikhil.nimbalkar128@studentmail.com,7557416771,Male,50,50,52,54,50,Poor,Incomplete,Present,76,2,High Risk
+STU129,Vaibhav Kamble,vaibhav.kamble129@studentmail.com,9696178129,Male,69,78,80,67,69,Good,Complete,Present,92,6,Low Risk
+STU130,Bhakti Wagh,bhakti.wagh130@studentmail.com,7788127261,Female,44,58,55,63,47,Poor,Complete,Present,70,3,High Risk
+STU131,Tejas Deshmukh,tejas.deshmukh131@studentmail.com,7959318739,Male,31,37,27,49,29,Poor,Incomplete,Not Present,50,1,High Risk
+STU132,Yashashri Phadtare,yashashri.phadtare132@studentmail.com,7162120124,Female,37,24,39,37,41,Poor,Incomplete,Present,65,3,High Risk
+STU133,Sumit Gaikwad,sumit.gaikwad133@studentmail.com,7172204507,Male,53,48,43,58,49,Good,Complete,Not Present,85,3,Medium Risk
+STU134,Sonali Kulkarni,sonali.kulkarni134@studentmail.com,8072131689,Female,75,57,65,60,51,Excellent,Complete,Present,94,4,Low Risk
+STU135,Nilesh Joshi,nilesh.joshi135@studentmail.com,8336939421,Male,44,60,60,49,67,Poor,Incomplete,Not Present,77,5,High Risk
+STU136,Sagar Naik,sagar.naik136@studentmail.com,9792081123,Male,51,43,52,67,50,Good,Complete,Not Present,85,5,Medium Risk
+STU137,Vedant Thorat,vedant.thorat137@studentmail.com,8907580710,Male,66,83,66,81,68,Good,Complete,Present,84,4,Low Risk
+STU138,Madhuri Dhumal,madhuri.dhumal138@studentmail.com,8535693342,Female,66,69,68,66,62,Excellent,Complete,Present,79,5,Low Risk
+STU139,Omkar Thorat,omkar.thorat139@studentmail.com,8157472498,Male,28,54,34,40,39,Good,Incomplete,Present,69,2,High Risk
+STU140,Tushar Kadam,tushar.kadam140@studentmail.com,7692004232,Male,61,52,64,52,65,Average,Complete,Present,86,4,Low Risk
+STU141,Madhuri Chavan,madhuri.chavan141@studentmail.com,9073668675,Female,41,43,32,37,39,Poor,Incomplete,Present,68,1,High Risk
+STU142,Sonali Gaikwad,sonali.gaikwad142@studentmail.com,8623855451,Female,47,45,43,40,45,Average,Incomplete,Not Present,63,1,High Risk
+STU143,Rohan Shinde,rohan.shinde143@studentmail.com,8280165813,Male,75,55,59,51,65,Good,Complete,Present,81,6,Low Risk
+STU144,Anushka Kadam,anushka.kadam144@studentmail.com,7195409600,Female,35,35,34,31,32,Poor,Incomplete,Not Present,65,1,High Risk
+STU145,Anushka Bhosale,anushka.bhosale145@studentmail.com,9456824629,Female,58,66,56,61,57,Poor,Complete,Present,78,3,Medium Risk
+STU146,Sagar Gore,sagar.gore146@studentmail.com,9123713444,Male,59,66,62,55,62,Good,Incomplete,Present,80,4,Medium Risk
+STU147,Snehal Nimbalkar,snehal.nimbalkar147@studentmail.com,9515829401,Female,65,68,69,58,72,Excellent,Complete,Present,86,4,Low Risk
+STU148,Vaibhav Dhumal,vaibhav.dhumal148@studentmail.com,7593965704,Male,38,53,36,31,37,Poor,Incomplete,Not Present,72,1,High Risk
+STU149,Omkar Bhide,omkar.bhide149@studentmail.com,8459068453,Male,60,44,57,65,57,Good,Complete,Present,80,3,Low Risk
+STU150,Aarohi Kumar,aarohi.kumar150@studentmail.com,7124326089,Female,60,54,46,44,45,Poor,Incomplete,Present,74,4,High Risk
+STU151,Payal Lokhande,payal.lokhande151@studentmail.com,8907747484,Female,65,68,61,69,76,Excellent,Complete,Present,91,5,Low Risk
+STU152,Bhakti Kulkarni,bhakti.kulkarni152@studentmail.com,7781262960,Female,58,54,51,51,45,Poor,Incomplete,Not Present,72,3,High Risk
+STU153,Nikhil Jadhav,nikhil.jadhav153@studentmail.com,7316961648,Male,43,48,32,43,30,Average,Incomplete,Present,55,2,High Risk
+STU154,Sahil Kale,sahil.kale154@studentmail.com,8066933466,Male,61,67,54,61,56,Poor,Incomplete,Present,87,5,Medium Risk
+STU155,Pranav Kamble,pranav.kamble155@studentmail.com,9430636735,Male,27,39,46,44,42,Poor,Incomplete,Present,78,2,High Risk
+STU156,Rahul Shinde,rahul.shinde156@studentmail.com,9283629370,Male,38,42,28,30,33,Poor,Incomplete,Not Present,64,1,High Risk
+STU157,Aditya Salunkhe,aditya.salunkhe157@studentmail.com,8122181339,Male,57,72,67,59,59,Excellent,Complete,Present,87,5,Low Risk
+STU158,Darshan Bhide,darshan.bhide158@studentmail.com,7231422445,Male,62,67,52,55,47,Average,Complete,Present,75,4,Medium Risk
+STU159,Yash Ghule,yash.ghule159@studentmail.com,8452970723,Male,23,20,20,20,20,Poor,Incomplete,Not Present,52,1,High Risk
+STU160,Nikita Lokhande,nikita.lokhande160@studentmail.com,9316077416,Female,50,37,38,39,39,Poor,Incomplete,Present,62,1,High Risk
+STU161,Sumit Sharma,sumit.sharma161@studentmail.com,7034591706,Male,39,42,34,39,46,Poor,Incomplete,Present,67,2,High Risk
+STU162,Vidya More,vidya.more162@studentmail.com,9328934082,Female,60,71,63,60,60,Good,Complete,Present,85,4,Low Risk
+STU163,Bhakti Jadhav,bhakti.jadhav163@studentmail.com,7442843184,Female,74,75,81,69,76,Excellent,Complete,Present,84,6,Low Risk
+STU164,Pranav Verma,pranav.verma164@studentmail.com,7958334333,Male,63,88,83,79,69,Excellent,Complete,Not Present,88,6,Low Risk
+STU165,Nikita Kale,nikita.kale165@studentmail.com,7986635711,Female,59,48,65,63,64,Good,Complete,Not Present,80,5,Medium Risk
+STU166,Akash Deshmukh,akash.deshmukh166@studentmail.com,8083211901,Male,36,38,36,51,45,Average,Incomplete,Not Present,62,3,High Risk
+STU167,Akash Salunkhe,akash.salunkhe167@studentmail.com,7624657224,Male,43,43,38,40,44,Poor,Incomplete,Not Present,63,3,High Risk
+STU168,Yash Kumar,yash.kumar168@studentmail.com,9398999682,Male,39,44,42,47,40,Poor,Incomplete,Not Present,60,3,High Risk
+STU169,Vikram Joshi,vikram.joshi169@studentmail.com,7341785958,Male,64,46,59,54,53,Good,Complete,Present,87,4,Low Risk
+STU170,Pranav Ghule,pranav.ghule170@studentmail.com,9061831728,Male,67,76,69,70,80,Excellent,Complete,Present,85,4,Low Risk
+STU171,Utkarsh Naik,utkarsh.naik171@studentmail.com,9531590402,Male,36,33,22,32,29,Poor,Incomplete,Not Present,61,1,High Risk
+STU172,Sagar Pawar,sagar.pawar172@studentmail.com,8208459207,Male,76,57,73,58,52,Good,Complete,Present,71,5,Medium Risk
+STU173,Sonali Salunkhe,sonali.salunkhe173@studentmail.com,7747215508,Female,75,73,55,52,63,Good,Complete,Present,80,3,Low Risk
+STU174,Nikhil Kumar,nikhil.kumar174@studentmail.com,9568283769,Male,64,45,56,47,59,Average,Complete,Present,88,3,Medium Risk
+STU175,Mrunal Chavan,mrunal.chavan175@studentmail.com,9391807196,Female,95,88,95,95,87,Excellent,Complete,Present,98,6,Low Risk
+STU176,Yashashri Mane,yashashri.mane176@studentmail.com,8022311027,Female,57,66,54,59,62,Good,Complete,Present,82,4,Low Risk
+STU177,Tejaswini Sawant,tejaswini.sawant177@studentmail.com,9330136383,Female,48,56,61,51,60,Good,Incomplete,Not Present,88,4,Medium Risk
+STU178,Harshada Gaikwad,harshada.gaikwad178@studentmail.com,7349172149,Female,55,59,50,55,60,Average,Complete,Present,81,4,Medium Risk
+STU179,Yashashri Joshi,yashashri.joshi179@studentmail.com,8641986465,Female,48,46,41,47,54,Poor,Incomplete,Not Present,80,3,High Risk
+STU180,Pranav Kale,pranav.kale180@studentmail.com,8324863289,Male,50,38,23,44,39,Poor,Incomplete,Not Present,60,2,High Risk
+STU181,Shreya Lokhande,shreya.lokhande181@studentmail.com,8325182289,Female,53,64,65,71,55,Average,Complete,Present,77,4,Medium Risk
+STU182,Snehal Gaikwad,snehal.gaikwad182@studentmail.com,8215957589,Female,70,65,58,67,78,Average,Complete,Present,86,4,Low Risk
+STU183,Prathamesh Deshpande,prathamesh.deshpande183@studentmail.com,7436915820,Male,42,55,45,49,55,Poor,Incomplete,Not Present,70,2,High Risk
+STU184,Vikram Phadtare,vikram.phadtare184@studentmail.com,7752978126,Male,56,50,69,66,65,Average,Complete,Present,86,3,Low Risk
+STU185,Manasi Deshpande,manasi.deshpande185@studentmail.com,8738335694,Female,55,57,51,56,36,Average,Complete,Present,62,2,High Risk
+STU186,Ritika Nimbalkar,ritika.nimbalkar186@studentmail.com,8047166728,Female,68,90,80,88,63,Excellent,Complete,Present,84,5,Low Risk
+STU187,Onkar Mane,onkar.mane187@studentmail.com,9807216818,Male,51,59,60,59,44,Good,Incomplete,Not Present,85,4,Medium Risk
+STU188,Pratiksha Wagh,pratiksha.wagh188@studentmail.com,8352533514,Female,73,59,65,49,59,Average,Incomplete,Not Present,81,3,High Risk
+STU189,Pratiksha Gaikwad,pratiksha.gaikwad189@studentmail.com,7800161565,Female,63,59,59,62,62,Good,Complete,Present,85,6,Low Risk
+STU190,Chinmay Deshmukh,chinmay.deshmukh190@studentmail.com,8721361967,Male,37,42,36,29,40,Poor,Incomplete,Present,74,3,High Risk
+STU191,Swapnil Kadam,swapnil.kadam191@studentmail.com,8349368723,Male,49,46,56,44,58,Average,Incomplete,Present,63,2,High Risk
+STU192,Vaibhav Verma,vaibhav.verma192@studentmail.com,7532664944,Male,78,70,80,88,64,Good,Complete,Present,74,4,Low Risk
+STU193,Nikita Verma,nikita.verma193@studentmail.com,8172542764,Female,49,39,60,51,44,Average,Complete,Present,87,2,Medium Risk
+STU194,Chaitali Gore,chaitali.gore194@studentmail.com,8029523523,Female,70,72,64,65,63,Excellent,Complete,Present,80,5,Low Risk
+STU195,Chinmay Yadav,chinmay.yadav195@studentmail.com,8221842091,Male,71,62,56,73,67,Excellent,Complete,Present,84,3,Low Risk
+STU196,Vedant Singh,vedant.singh196@studentmail.com,7575041344,Male,29,30,22,32,33,Poor,Incomplete,Not Present,50,1,High Risk
+STU197,Chinmay Verma,chinmay.verma197@studentmail.com,7777949809,Male,45,62,58,54,54,Good,Complete,Present,67,5,Medium Risk
+STU198,Utkarsh Chavan,utkarsh.chavan198@studentmail.com,7913270614,Male,36,35,39,40,35,Poor,Incomplete,Present,65,2,High Risk
+STU199,Ankita Sharma,ankita.sharma199@studentmail.com,7890826027,Female,62,58,48,46,59,Average,Complete,Not Present,81,4,Medium Risk
+STU200,Prathamesh Lokhande,prathamesh.lokhande200@studentmail.com,9046594867,Male,56,41,46,42,49,Poor,Incomplete,Present,67,2,High Risk
