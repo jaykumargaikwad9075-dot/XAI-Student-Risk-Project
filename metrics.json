@@ -1,0 +1,113 @@
+{
+  "selected_model": "Random Forest",
+  "comparison": [
+    {
+      "Model": "Logistic Regression",
+      "CV Accuracy": 0.92,
+      "CV Accuracy SD": 0.0292,
+      "CV Macro-F1": 0.9079,
+      "Test Accuracy": 0.9,
+      "Test Macro-F1": 0.8858
+    },
+    {
+      "Model": "Decision Tree",
+      "CV Accuracy": 0.86,
+      "CV Accuracy SD": 0.0255,
+      "CV Macro-F1": 0.831,
+      "Test Accuracy": 0.85,
+      "Test Macro-F1": 0.8317
+    },
+    {
+      "Model": "Random Forest",
+      "CV Accuracy": 0.925,
+      "CV Accuracy SD": 0.0158,
+      "CV Macro-F1": 0.9092,
+      "Test Accuracy": 1.0,
+      "Test Macro-F1": 1.0
+    },
+    {
+      "Model": "Gradient Boosting",
+      "CV Accuracy": 0.875,
+      "CV Accuracy SD": 0.0158,
+      "CV Macro-F1": 0.8531,
+      "Test Accuracy": 1.0,
+      "Test Macro-F1": 1.0
+    }
+  ],
+  "confusion_matrix": [
+    [
+      12,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      0
+    ],
+    [
+      0,
+      0,
+      19
+    ]
+  ],
+  "holdout_report": {
+    "Low Risk": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 12.0
+    },
+    "Medium Risk": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 9.0
+    },
+    "High Risk": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 19.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 40.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 40.0
+    }
+  },
+  "external_validation": {
+    "n": 250,
+    "accuracy": 0.9,
+    "macro_f1": 0.8784899872120967
+  },
+  "shap_mean_abs": {
+    "Average Marks": 0.2851,
+    "Attendance (%)": 0.2429,
+    "Assignment Completed": 0.2063,
+    "Behaviour": 0.1485,
+    "Study Hours (per day)": 0.0742,
+    "Other Activities": 0.0278
+  },
+  "spearman_rho": 0.9258200997725515,
+  "spearman_p": 0.008049893100837697,
+  "plan_improves_pct": 0.935251798561151,
+  "example_students": {
+    "Low Risk": "STU098",
+    "Medium Risk": "STU095",
+    "High Risk": "STU103"
+  },
+  "class_counts": {
+    "High Risk": 94,
+    "Low Risk": 61,
+    "Medium Risk": 45
+  }
+}
